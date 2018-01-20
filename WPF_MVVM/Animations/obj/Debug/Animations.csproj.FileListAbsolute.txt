@@ -1,0 +1,14 @@
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\bin\Debug\Animations.exe.config
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\bin\Debug\Animations.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\bin\Debug\Animations.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.csprojResolveAssemblyReference.cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\MainWindow.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\App.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations_MarkupCompile.cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations_MarkupCompile.lref
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\MainWindow.baml
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.g.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.Properties.Resources.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.csproj.GenerateResource.Cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Animations\obj\Debug\Animations.pdb

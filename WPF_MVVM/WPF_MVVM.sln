@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MVVM", "WPF_MVVM\WPF_MVVM.csproj", "{4D11C149-11EC-40E0-B56B-34170650AD78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.Common", "WPF_MVVM\WPF.Common.csproj", "{4D11C149-11EC-40E0-B56B-34170650AD78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table_MVVM", "HelloWorldWPF\HelloWorldWPF\Table_MVVM.csproj", "{BE465A9B-1FEA-4DE5-A8E2-318BE7369B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{0241FE4F-9F68-41E4-B547-C1F07978E205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styles", "Styles\Styles.csproj", "{7AB70C2D-4CEE-48F1-9059-F0B12450F271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animations", "Animations\Animations.csproj", "{75E95EBE-0D64-4A8D-8237-F070A59D2904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigger", "Trigger\Trigger.csproj", "{5B602F79-BE17-467F-BB39-1145ADB38BC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{4D11C149-11EC-40E0-B56B-34170650AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D11C149-11EC-40E0-B56B-34170650AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D11C149-11EC-40E0-B56B-34170650AD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE465A9B-1FEA-4DE5-A8E2-318BE7369B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE465A9B-1FEA-4DE5-A8E2-318BE7369B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE465A9B-1FEA-4DE5-A8E2-318BE7369B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE465A9B-1FEA-4DE5-A8E2-318BE7369B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0241FE4F-9F68-41E4-B547-C1F07978E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0241FE4F-9F68-41E4-B547-C1F07978E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0241FE4F-9F68-41E4-B547-C1F07978E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0241FE4F-9F68-41E4-B547-C1F07978E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB70C2D-4CEE-48F1-9059-F0B12450F271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB70C2D-4CEE-48F1-9059-F0B12450F271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB70C2D-4CEE-48F1-9059-F0B12450F271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB70C2D-4CEE-48F1-9059-F0B12450F271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E95EBE-0D64-4A8D-8237-F070A59D2904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E95EBE-0D64-4A8D-8237-F070A59D2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E95EBE-0D64-4A8D-8237-F070A59D2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E95EBE-0D64-4A8D-8237-F070A59D2904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B602F79-BE17-467F-BB39-1145ADB38BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B602F79-BE17-467F-BB39-1145ADB38BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B602F79-BE17-467F-BB39-1145ADB38BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B602F79-BE17-467F-BB39-1145ADB38BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

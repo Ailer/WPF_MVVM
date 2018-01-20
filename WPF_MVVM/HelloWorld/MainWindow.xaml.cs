@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_MVVM
+namespace HelloWorld
 {
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml

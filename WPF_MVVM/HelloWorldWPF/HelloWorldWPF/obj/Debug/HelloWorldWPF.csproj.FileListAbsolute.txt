@@ -1,0 +1,14 @@
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.exe.config
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.exe
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.pdb
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.csprojResolveAssemblyReference.cache
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\MainWindow.g.cs
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\App.g.cs
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF_MarkupCompile.cache
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF_MarkupCompile.lref
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\MainWindow.baml
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.g.resources
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.Properties.Resources.resources
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.csproj.GenerateResource.Cache
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.exe
+e:\daten\dokumente\visual studio 2015\Projects\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.pdb
