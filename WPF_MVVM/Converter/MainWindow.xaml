@@ -1,0 +1,19 @@
+<Window x:Class="Converter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cv ="clr-namespace:Converter"
+        xmlns:local="clr-namespace:Converter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel VerticalAlignment="Center" Orientation="Horizontal">
+        <StackPanel.Resources>
+            <cv:ColorConverter x:Key="CvColor" />
+        </StackPanel.Resources>
+        <TextBlock Text="Farbe auswählen:"  Margin="5,5"/>
+        <ComboBox x:Name="CbColor" Width="150" />
+        <Button Content="{Binding Path=SelectedItem, ElementName=CbColor}" Width="150" Margin="5,0"
+                Background="{Binding Path=SelectedItem, ElementName=CbColor, Converter={StaticResource ResourceKey=CvColor}, Mode=OneWay}"/>
+    </StackPanel>
+</Window>

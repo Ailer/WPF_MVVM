@@ -1,0 +1,15 @@
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\bin\Debug\Converter.exe.config
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\bin\Debug\Converter.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\bin\Debug\Converter.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\MainWindow.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\App.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter_MarkupCompile.cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter_MarkupCompile.lref
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\MainWindow.baml
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.g.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache

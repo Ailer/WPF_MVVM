@@ -1,0 +1,7 @@
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.dll
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\obj\Debug\WPF.Common.csprojResolveAssemblyReference.cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\obj\Debug\WPF.Common.csproj.GenerateResource.Cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.dll
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.pdb

@@ -1,0 +1,15 @@
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\bin\Debug\WPF_MVVM.dll
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\bin\Debug\WPF_MVVM.pdb
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\App.g.cs
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld.g.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\NilsK\Documents\git\WPF_MVVM\WPF_MVVM\HelloWorld\obj\Debug\HelloWorld.pdb

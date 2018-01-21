@@ -1,4 +1,3 @@
-using HelloWorldWPF.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HelloWorld
+namespace Converter
 {
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
@@ -25,7 +24,16 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            this.DataContext = new MainWindowViewModel("Max");
+            IEnumerable<Color> colors = Enum.GetValues(typeof(Color)).Cast<Color>();
+            CbColor.ItemsSource = colors;
         }
+    }
+
+    public enum Color
+    {
+        Red,
+        Blue,
+        Green,
+        Yellow
     }
 }

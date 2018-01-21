@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Input;
@@ -55,21 +55,6 @@ namespace HelloWorldWPF.ViewModels
             }
         }
 
-        public ICommand HelloWorld
-        {
-            get
-            {
-                if (_helloWorld == null)
-                {
-                    // Legt den Befehl fest der ausgeführt wird und den Befehl zum aktivieren bzw. deaktivieren des Buttons.
-                    _helloWorld = new DelegateCommand(new Action<object>(HelloWorldExecute),
-                                                      new Func<object, bool>(HelloWorldCanExecute));
-                }
-
-                return _helloWorld;
-            }
-        }
-
         public ICommand Add
         {
             get
@@ -94,19 +79,6 @@ namespace HelloWorldWPF.ViewModels
                    !string.IsNullOrWhiteSpace(this.Birthday);
         }
 
-        // object ist nur ein Platzhalter.
-        private void HelloWorldExecute(object o)
-        {
-            MessageBox.Show($"Hello {this.Name}");
-        }
-
-        // object ist nur ein Platzhalter
-        private bool HelloWorldCanExecute(object o)
-        {
-            // Aktiviert deaktiviert Button. 
-            return !string.IsNullOrWhiteSpace(this.Name);
-        }
-
         public MainWindowViewModel(string name)
         {
             Name = name;
@@ -114,7 +86,6 @@ namespace HelloWorldWPF.ViewModels
             Contacts.Add(new ContactViewModel("Fritz Walter", "31.12"));
             Contacts.Add(new ContactViewModel("Max Mustermann", "24.01"));
             Contacts.Add(new ContactViewModel("John Doe", "20.10"));
-
         }
     }
 }
