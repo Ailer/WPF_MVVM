@@ -1,0 +1,16 @@
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe.config
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\bin\Debug\WpfAppMVVM.exe
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\bin\Debug\WpfAppMVVM.pdb
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.csprojResolveAssemblyReference.cache
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\MainWindow.g.cs
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\App.g.cs
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.cache
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM_MarkupCompile.lref
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\MainWindow.baml
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.g.resources
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.Properties.Resources.resources
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.csproj.GenerateResource.Cache
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.csproj.CoreCompileInputs.cache
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.exe
+H:\Dokumente\VS2017Projects\WPF\WpfApp1\WpfAppMVVM\obj\Debug\WpfAppMVVM.pdb
