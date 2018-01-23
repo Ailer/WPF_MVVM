@@ -12,3 +12,5 @@ WPF_MVVM/HelloWorldWPF/HelloWorldWPF/obj/Debug/App.g.cs
 WPF_MVVM/HelloWorldWPF/HelloWorldWPF/obj/Debug/App.g.i.cs
 WPF_MVVM/HelloWorldWPF/HelloWorldWPF/obj/Debug/HelloWorldWPF.g.resources
 WPF_MVVM/HelloWorldWPF/HelloWorldWPF/obj/Debug/HelloWorldWPF_MarkupCompile.lref
+WPF_MVVM/Animations/obj/Debug/Animations_MarkupCompile.i.lref
+WPF_MVVM/Trigger/obj/Debug/Trigger_MarkupCompile.i.lref
