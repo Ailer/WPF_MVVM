@@ -53,5 +53,17 @@ namespace WpfApp1
                 chkMarried.IsChecked = false;
             }
         }
+
+        private void txtAge_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            try
+            {
+                pers.Age = Convert.ToInt32(txtAge.Text);
+                printPers(pers);
+            }
+            catch { }
+            
+            
+        }
     }
 }

@@ -11,7 +11,7 @@
         <Label x:Name="lAge" Content="Age:" HorizontalAlignment="Left" Margin="35,84,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.903,0.593"/>
         <Label x:Name="lMarried" Content="Married?" HorizontalAlignment="Left" Margin="35,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.903,0.593"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="105,39,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="105,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="105,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="txtAge_TextChanged"/>
         <CheckBox x:Name="chkMarried" Content="" HorizontalAlignment="Left" Margin="105,140,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lAgeOK" Content="" HorizontalAlignment="Left" Margin="251,84,0,0" VerticalAlignment="Top" Width="31"/>
 
