@@ -16,9 +16,9 @@
         <Label x:Name="lAge" Content="Age:" HorizontalAlignment="Left" Margin="35,84,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.903,0.593"/>
         <Label x:Name="lMarried" Content="Married?" HorizontalAlignment="Left" Margin="35,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.903,0.593"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="105,39,0,0" TextWrapping="Wrap" Text="{Binding TxtPersonName, Source={StaticResource person}}" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="105,88,0,0" TextWrapping="Wrap" Text="{Binding TxtPersonAge, Source={StaticResource person}}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="105,88,0,0" TextWrapping="Wrap" Text="{Binding TxtPersonAge, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Source={StaticResource person}}" VerticalAlignment="Top" Width="120"/>
         <CheckBox x:Name="chkMarried" Content="" HorizontalAlignment="Left" Margin="105,140,0,0" VerticalAlignment="Top" IsChecked="{Binding IsMarried, Source={StaticResource person}}"/>
-        <Label x:Name="lAgeOK" Content="" HorizontalAlignment="Left" Margin="251,84,0,0" VerticalAlignment="Top" Width="31" Background="{Binding lAgeColor, Mode=OneWay, Source={StaticResource person}}"/>
+        <Label x:Name="lAgeOK" Content="" HorizontalAlignment="Left" Margin="251,84,0,0" VerticalAlignment="Top" Width="31" Background="{Binding lAgeColor, Mode=OneWay, UpdateSourceTrigger=PropertyChanged, Source={StaticResource person}}"/>
 
     </Grid>
 </Window>
